@@ -7,13 +7,15 @@
 
 
 
-- 🔭 I’m currently working on [my personal blog](http://jesseblog.epizy.com/)
+- 🔭 I’m currently working & learning Game Developement with Unity3D
 
-- 🌱 I’m currently learning **Java EE & Backend development**
+- 🌱 I’m currently learning **Symfony**
 
-- 👨‍💻 All of my projects are available at [http://jesseblog.epizy.com/](http://jesseblog.epizy.com/)
+- 👨‍💻 All of my projects are available at [https://stackoverflow.com/users/20204636/jesse-vankerrebrouck](https://stackoverflow.com/users/20204636/jesse-vankerrebrouck) (some of them are private, sorry, not sorry 💁🏼‍♂️)
 
 - 📫 How to reach me **jesse.vanker@hotmail.fr**
+
+- 🎮 Looking for people to colarobate on my Tower Defense Game. DM me if you're interested
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
