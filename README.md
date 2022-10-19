@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Jesse VANKERREBROUCK</h1>
-<h3 align="center">Currently doing a web & mobile development degree at ENI</h3>
+<h3 align="center">Student at ENI School doing a web & mobile development degree</h3>
 <br>
 <img align="right" alt="coding" width="250" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
