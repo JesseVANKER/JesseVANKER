@@ -5,13 +5,11 @@
 <br>
 <img align="right" alt="coding" width="250" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+- 🌱 I’m currently learning web & mobile at ENI
 
+- 🔭 I’m self-learning Game Developement with Unity3D
 
-- 🔭 I’m currently working & learning Game Developement with Unity3D
-
-- 🌱 I’m currently learning **Symfony** at ENI
-
-- 👨‍💻 All of my projects are available on StackOverFlow (some of them are private, sorry, not sorry 💁🏼‍♂️)
+- 👨‍💻 All of my projects are available on Github (some of them are private, sorry, not sorry 💁🏼‍♂️)
 
 - 📫 How to reach me **jesse.vanker@hotmail.fr**
 
