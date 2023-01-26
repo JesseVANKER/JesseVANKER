@@ -1,19 +1,18 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Jesse VANKERREBROUCK</h1>
-<h3 align="center">Student at ENI School doing a web & mobile development degree</h3>
+<h3 align="center">Student at ENI School doing application design and development degree</h3>
 <br>
 <img align="right" alt="coding" width="250" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning web & mobile at ENI
+- 🌱 I’m currently learning designing applications at ENI
 
 - 🔭 I’m self-learning Game Developement with Unity3D
 
-- 👨‍💻 All of my projects are available on Github (some of them are private, sorry, not sorry 💁🏼‍♂️)
+- 👨‍💻 Have a look at my projects on Github (some of them are private, sorry 💁🏼‍♂️)
 
 - 📫 How to reach me **jesse.vanker@hotmail.fr**
 
-- 🎮 Looking for people to colarobate on my Tower Defense Game. DM me if you're interested
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
